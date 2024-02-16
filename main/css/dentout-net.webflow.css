@@ -1277,7 +1277,7 @@ blockquote {
 
 .standard-header {
   min-height: 70vh;
-  background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/rows-of-cars.jpg');
+  background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/rows-of-cars-p-3200.jpeg');
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
   justify-content: center;
@@ -1287,12 +1287,12 @@ blockquote {
 }
 
 .standard-header.ocean-shipping {
-  background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/lot-of-cars.jpg');
+  background-image: linear-gradient(rgba(10, 27, 43, .47), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/lot-of-cars-p-3200.jpeg');
   background-position: 0 0, 50% 100%;
 }
 
 .standard-header.ground-transport {
-  background-image: linear-gradient(rgba(10, 27, 43, .5), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/vlad-tchompalov-jwyO3NhPZKQ-unsplash.jpg');
+  background-image: linear-gradient(rgba(10, 27, 43, .5), rgba(10, 27, 43, .98) 70%, #0a1b2b), url('../images/vlad-tchompalov-jwyO3NhPZKQ-unsplash-p-3200.jpeg');
   background-position: 0 0, 50%;
 }
 
